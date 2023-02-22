@@ -6,3 +6,4 @@ MEDIEUS DEVELOPMENT RECORD
 
 Key updates
 - 우수의료기관 인증마크 업데이트
+- 명의 인증마크 업데이트
